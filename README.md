@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradhuman Kumar</h1>
 <h3 align="center">A passionate Automation Tester</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pk4727&label=Profile%20views&color=0e75b6&style=flat" alt="pk4727" /> </p>
+<p align="left"> <img src="https://github.com/pk4727/pk4727&label=Profile%20views&color=0e75b6&style=flat" alt="pk4727" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
